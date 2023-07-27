@@ -35,5 +35,3 @@ I am a programmer and software developer who is passionate about continuous lear
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/soyJDan"><img src="https://github-readme-stats.vercel.app/api?username=soyJDan&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="soyJDan's GitHub stats" /></a>
-
-<a href="https://github.com/soyJDan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyJDan&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
