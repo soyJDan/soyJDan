@@ -1,0 +1,25 @@
+* {
+    box-sizing: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #252823;
+    color: #ECEFE5;
+}
+
+.red-social-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.red-socials {
+    
+}
+
+.red-social {
+    float: left;
+    margin-left: 20px;
+}
+
+
