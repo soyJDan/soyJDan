@@ -7,7 +7,7 @@ Backend Developer, Student Full Stack Developer
 I am a programmer and software developer who is passionate about continuous learning. I dedicate myself to developing innovative and quality solutions for different platforms. My goal is to add value to the sector with my projects.
 
 * 🌍  I'm based in Spain
-* 🧠  I'm learning Dart and Flutter
+* 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Habbu
 * ⚡  I'm secretly Batman, don’t tell anyone. 🦇
 
