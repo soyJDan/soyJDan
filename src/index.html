@@ -1,20 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio</title>
 
-    <link href="../build.css" rel="stylesheet">
+    <link href="../dist/output.css" rel="stylesheet">
 </head>
 <body>
-    <div class="flex mx-20 my-5 bg-slate-300 p-10 rounded-2xl">
+    <div class="flex mx-32 my-5 p-10 rounded-2xl divide-x divide-dashed">
         <div class="my-auto mx-0">
-            <h1 class="text-6xl py-8">Hi! I'm <strong>Romero.</strong></h1>
-            <p class="text-lg">I am a programmer and software developer who is passionate about continuous learning.</p>
+            <h1 class="text-8xl py-10 w-5/6">Hi! I'm <strong>Romero.</strong></h1>
+            <p class="text-xl w-4/5">I am a programmer and software developer who is passionate about continuous learning.</p>
         </div>
-        <div class="">
-            <img class="icon" src="images/programming.svg" alt="">
+        <div class="grid justify-items-end items-center">
+            <img class="w-4/5" src="images/programming.svg" alt="Programming">
+        </div>
+    </div>
+    
+    <div class="bg-slate-100 p-8 divide-y divide-dashed">
+        <div class="text-4xl text-center p-4 font-bold">
+            <h2>Skills</h2>
+        </div>
+        <div class="grid grid-cols-6 justify-items-center p-6 text-center mx-36">
+            <div class="flex flex-col bg-white h-full w-32 p-5 rounded-2xl items-center justify-center">
+                <img class="w-12 my-0 mx-auto pb-5" src="images/java.svg" alt="Java">
+                <p class="font-light">Java</p>
+            </div>
+            <div class="flex flex-col bg-white h-full w-32 p-5 rounded-2xl items-center justify-center">
+                <img class="w-12 my-0 mx-auto pb-5" src="images/html-5.svg" alt="HTML5">
+                <p class="font-light">HTML5</p>
+            </div>
+            <div class="flex flex-col bg-white h-full w-32 p-5 rounded-2xl items-center justify-center">
+                <img class="w-12 my-0 mx-auto pb-5" src="images/css-3.svg" alt="CSS3">
+                <p class="font-light">CSS3</p>
+            </div>
+            <div class="flex flex-col bg-white h-full w-32 p-5 rounded-2xl items-center justify-center">
+                <img class="w-12 my-0 mx-auto pb-5" src="images/typescript-icon.svg" alt="TypeScript">
+                <p class="font-light">TypeScript</p>
+            </div>
+            <div class="flex flex-col bg-white h-full w-32 p-5 rounded-2xl items-center justify-center">
+                <img class="w-12 my-0 mx-auto pb-5" src="images/spring.svg" alt="Spring">
+                <p class="font-light">Spring</p>
+            </div>
+            <div class="flex flex-col bg-white h-full w-32 p-5 rounded-2xl items-center justify-center">
+                <img class="w-12 my-0 mx-auto pb-5" src="images/postgresql.svg" alt="PostgreSQL">
+                <p class="font-light">PostgreSQL</p>
+            </div>
         </div>
     </div>
 </body>
