@@ -8,6 +8,9 @@
     <link href="../dist/output.css" rel="stylesheet">
 </head>
 <body>
+
+    <!-- HEADER -->
+
     <div class="flex mx-32 my-5 p-10 rounded-2xl divide-x divide-dashed">
         <div class="my-auto mx-0">
             <h1 class="text-8xl py-10 w-5/6">Hi! I'm <strong>Romero.</strong></h1>
@@ -17,8 +20,10 @@
             <img class="w-4/5" src="images/programming.svg" alt="Programming">
         </div>
     </div>
+
+    <!-- SKILLS -->
     
-    <div class="bg-slate-100 p-8 divide-y divide-dashed">
+    <div class="bg-slate-100 p-8 divide-y divide-dashed bottom-0">
         <div class="text-4xl text-center p-4 font-bold">
             <h2>Skills</h2>
         </div>
@@ -47,6 +52,91 @@
                 <img class="w-12 my-0 mx-auto pb-5" src="images/postgresql.svg" alt="PostgreSQL">
                 <p class="font-light">PostgreSQL</p>
             </div>
+        </div>
+    </div>
+
+    <!-- PROJECTS -->
+
+    <div class="p-8 divide-y divide-dashed">
+        <div class="text-4xl text-center p-4 font-bold">
+            <h2>Projects</h2>
+        </div>
+        <div class="grid grid-cols-3 justify-items-center p-6 text-center mx-36">
+            <div>
+                <h3 class="p-4 bg-slate-100 rounded-2xl mb-5 w-3/4 mx-auto shadow-sm shadow-slate-300/50">Title</h3>
+                <img class="w-3/4 my-0 mx-auto rounded-2xl" src="images/scrum_board.svg" alt="First Project">
+                <div class="my-6 mx-8">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Error, expedita magnam dolor voluptates minima maiores praesentium non, 
+                        blanditiis deserunt cupiditate odit velit enim quis repudiandae debitis veritatis aliquam placeat excepturi?
+                    </p>
+                    <button class="px-2 py-1 bg-slate-100 rounded mt-5 w-1/4 mx-auto shadow-sm shadow-slate-300/50">More...</button>
+                </div>
+            </div>
+            <div>
+                <h3 class="p-4 bg-slate-100 rounded-2xl mb-5 w-3/4 mx-auto shadow-sm shadow-slate-300/50">Title</h3>
+                <img class="w-3/4 my-0 mx-auto rounded-2xl" src="images/scrum_board.svg" alt="First Project">
+                <div class="my-6 mx-8">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Error, expedita magnam dolor voluptates minima maiores praesentium non, 
+                        blanditiis deserunt cupiditate odit velit enim quis repudiandae debitis veritatis aliquam placeat excepturi?
+                    </p>
+                    <button class="px-2 py-1 bg-slate-100 rounded mt-5 w-1/4 mx-auto shadow-sm shadow-slate-300/50">More...</button>
+                </div>
+            </div>
+            <div>
+                <h3 class="p-4 bg-slate-100 rounded-2xl mb-5 w-3/4 mx-auto shadow-sm shadow-slate-300/50">Title</h3>
+                <img class="w-3/4 my-0 mx-auto rounded-2xl" src="images/scrum_board.svg" alt="First Project">
+                <div class="my-6 mx-8">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Error, expedita magnam dolor voluptates minima maiores praesentium non, 
+                        blanditiis deserunt cupiditate odit velit enim quis repudiandae debitis veritatis aliquam placeat excepturi?
+                    </p>
+                    <button class="px-2 py-1 bg-slate-100 rounded mt-5 w-1/4 mx-auto shadow-sm shadow-slate-300/50">More...</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- CONTACT -->
+    <div class="bg-slate-100 p-8 divide-y divide-dashed">
+        <div class="text-4xl text-center p-4 font-bold">
+            <h2>Contact</h2>
+        </div>
+        <div>
+            <div class="isolate px-6 py-4">
+                <form action="#" method="POST" class="mx-auto mt-10 max-w-5xl">
+                  <div class="grid grid-cols-2 gap-x-8 gap-y-6">
+                    <div>
+                      <label for="first-name" class="block text-base font-semibold leading-6 text-gray-900">First name</label>
+                      <div class="mt-2.5">
+                        <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-xl border-0 px-4 py-3 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                      </div>
+                    </div>
+                    <div>
+                      <label for="last-name" class="block text-base font-semibold leading-6 text-gray-900">Last name</label>
+                      <div class="mt-2.5">
+                        <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-xl border-0 px-4 py-3 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                      </div>
+                    </div>
+                    <div class="sm:col-span-2">
+                      <label for="email" class="block text-base font-semibold leading-6 text-gray-900">Email</label>
+                      <div class="mt-2.5">
+                        <input type="email" name="email" id="email" autocomplete="email" class="block w-full rounded-xl border-0 px-4 py-3 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                      </div>
+                    </div>
+                    <div class="sm:col-span-2">
+                      <label for="message" class="block text-base font-semibold leading-6 text-gray-900">Message</label>
+                      <div class="mt-2.5">
+                        <textarea name="message" id="message" rows="4" class="block w-full rounded-xl border-0 px-4 py-3 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="mt-10">
+                    <button type="submit" class="block w-full rounded-md bg-indigo-600 px-4 py-3 text-center text-base font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Let's talk</button>
+                  </div>
+                </form>
+              </div>
         </div>
     </div>
 </body>
