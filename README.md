@@ -8,7 +8,7 @@ I am a programmer and software developer who is passionate about continuous lear
 
 * 🌍  I'm based in Spain
 * 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Munasa
+* 🤝  I'm open to collaborating on Balkkota
 * ⚡  I'm secretly Batman, don’t tell anyone. 🦇
 
 ### Skills
