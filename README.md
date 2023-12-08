@@ -1,39 +1,70 @@
-Hi 👋 My name is Daniel
-=======================
+<style>
+    .justify-center {
+        display: flex;
+        justify-content: center;
+    }
 
-Backend Developer, Student Full Stack Developer
------------------------------------------------
+    .gap-x-5 {
+        column-gap:  1.25rem;
+    }
 
-I am a programmer and software developer who is passionate about continuous learning. I dedicate myself to developing innovative and quality solutions for different platforms. My goal is to add value to the sector with my projects.
+    .w-10 {
+    	width: 2.5rem
+    }
 
-* 🌍  I'm based in Spain
-* 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Balkkota
-* ⚡  I'm secretly Batman, don’t tell anyone. 🦇
+    .text-center {
+        text-align: center;
+    }
 
-### Skills
+    .align-center {
+        align-items: center;
+    }
+
+    .items-end {
+        align-self: flex-end;
+    }
+
+    .text-xs {
+        font-size: 0.75rem;
+        line-height: 1rem;
+    }
+
+    .my-1 {
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
+    }
+
+    .mt-10 {
+        margin-top: 2.5rem;
+    }
 
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/blob/master/icons/spring.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+</style>
 
+<img src="src/images/rana.png" alt="Rana programando en la galaxia">
 
-### Socials
+<h1 class="text-center my-1">Hi 👋 My name is Daniel</h1>
 
-<p align="left"> <a href="https://discord.com/users/541782252590465025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soyJDan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/soyJDan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<h3 class="text-center my-2">Software Developer</h3>
 
-### Badges
+<p class="text-center">I am a programmer and software developer who is passionate about continuous learning.</p>
 
-<b>My GitHub Stats</b>
+<div class="justify-center align-center gap-x-5">
+    <a href="https://github.com/soyJDan" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/github-icon.svg" class="w-10"></a>
+    <a href="https://www.linkedin.com/in/soyJDan" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" class="w-10"></a>
+    <a href="https://twitter.com/soyJDan" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/twitter.svg" class="w-10"></a>
+</div>
 
-<a href="http://www.github.com/soyJDan"><img src="https://github-readme-stats.vercel.app/api?username=soyJDan&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="soyJDan's GitHub stats" /></a>
+<h4 class="text-center mt-10">Skills</h4>
+
+<div class="gap-x-5 justify-center align-center">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/spring.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" class="w-10">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" class="w-10">
+    <p class="items-end text-xs">And a few more...</p>
+</div>
