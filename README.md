@@ -30,7 +30,7 @@
   <img alt="Dart" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" width="40">  And a few more...
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">Stats</h2>
 <p align="center">
