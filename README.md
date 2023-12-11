@@ -1,17 +1,38 @@
 ![Rana programando en la galaxia](src/images/rana.png)
 
-# Hi 👋 My name is Daniel
+<h1 align="center">Hi 👋 My name is Daniel</h1>
+<h3 align="center">Software Developer</h3> 
 
-## Software Developer
+<br>
 
-I am a programmer and software developer who is passionate about continuous learning.
+<p align="center">I am a programmer and software developer who is passionate about continuous learning.</p>
 
-### Connect with me:   
+<br>
 
-<a href="https://github.com/soyJDan"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/github-icon.svg" width="48px"></a>
-<a href="https://www.linkedin.com/in/soyJDan"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" width="48px"></a>
-<a href="https://twitter.com/soyJDan"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/twitter.svg" width="48px"></a>               
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href="https://github.com/soyJDan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E?style=for-the-badge&logo=Github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soyJDan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://twitter.com/soyJDan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white"></a>              
+</p>
+ 
+<br>
 
-### Skills:
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img alt="Java" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" width="40"/>  
+  <img alt="Spring" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/spring.svg" width="40"/>  
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg" width="40"/>  
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" width="40"/>  
+  <img alt="Git" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg" width="40"/>  
+  <img alt="React" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="40"/>  
+  <img alt="Docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" width="40"/>  
+  <img alt="Dart" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" width="40">  And a few more...
+</p>
 
-<img alt="Java" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" width="48"/>  <img alt="Spring" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/spring.svg" width="48"/>  <img alt="TypeScript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg" width="48"/>  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" width="48"/>  <img alt="Git" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg" width="48"/>  <img alt="React" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="48"/>  <img alt="Docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" width="48"/>  <img alt="Dart" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" width="48">  And a few more...
+<br><br>
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <a href="https://github.com/soyJDan"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=soyJDan&theme=github_dark&show_icons=true&layout=compact&langs_count=8&card_width=320&show=reviews&hide=stars,issues" /></a>
+</p>
