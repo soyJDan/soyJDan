@@ -1,27 +1,24 @@
 <script setup lang="ts">
-import Header from './components/Header.vue'
-import About from '@/components/About.vue'
-import Home from '@/components/Home.vue'
+
+import Home from "@/components/Home.vue";
+import Skills from "@/components/Skills.vue";
+import Contact from "@/components/Contact.vue";
 
 const siteProps = {
-  name: "Daniel Romero",
-  title: "Software Developer",
-  email: "juandanielromerobedoya@gmail.com",
-  github: "soyJDan",
-  twitter: "soyJDan",
-  linkedin: "soyJDan",
+  name: 'Daniel Romero',
+  title: 'Software Developer',
+  email: 'juandanielromerobedoya@gmail.com',
+  github: 'soyJDan',
+  twitter: 'soyJDan',
+  linkedin: 'soyJDan'
 }
 </script>
 
 <template>
-  <header>
-    <Header />
-  </header>
-
   <main>
     <Home />
-    <About />
-
+    <Contact />
+    <Skills />
   </main>
 </template>
 
