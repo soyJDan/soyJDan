@@ -1,4 +1,4 @@
-![Rana programando en la galaxia](src/images/rana.png)
+![Kermit The Frog programando en la galaxia](https://i.imgur.com/gOmSTjv.png)
 
 <h1 align="center">Hi 👋 My name is Daniel</h1>
 <h3 align="center">Software Developer</h3> 
