@@ -3,15 +3,6 @@
 import Home from "@/components/Home.vue";
 import Skills from "@/components/Skills.vue";
 import Contact from "@/components/Contact.vue";
-
-const siteProps = {
-  name: 'Daniel Romero',
-  title: 'Software Developer',
-  email: 'juandanielromerobedoya@gmail.com',
-  github: 'soyJDan',
-  twitter: 'soyJDan',
-  linkedin: 'soyJDan'
-}
 </script>
 
 <template>
