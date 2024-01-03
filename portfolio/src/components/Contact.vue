@@ -3,13 +3,13 @@
     <a href="https://github.com/soyJDan" target="_blank" class="link">
       <img src="./../../public/Github.svg" alt="Github">
     </a>
-    <a href="https://github.com/soyJDan" target="_blank" class="link">
+    <a href="https://www.linkedin.com/in/soyJDan" target="_blank" class="link">
       <img src="./../../public/Linkedin.svg" alt="LinkedIn">
     </a>
-    <a href="https://github.com/soyJDan" target="_blank" class="link">
+    <a href="https://twitter.com/soyJDan" target="_blank" class="link">
       <img src="./../../public/Twitterx.svg" alt="X">
     </a>
-    <a href="https://github.com/soyJDan" target="_blank" class="link">
+    <a href="juandanielromerobedoya@gmail.com" target="_blank" class="link">
       <img src="./../../public/Email.svg" alt="Email">
     </a>
   </div>
