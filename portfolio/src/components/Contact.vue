@@ -1,16 +1,16 @@
 <template>
   <div class="container-contact">
     <a href="https://github.com/soyJDan" target="_blank" class="link">
-      <img src="./../../public/Github.svg" alt="Github">
+      <img src="./public/Github.svg" alt="Github">
     </a>
     <a href="https://www.linkedin.com/in/soyJDan" target="_blank" class="link">
-      <img src="./../../public/Linkedin.svg" alt="LinkedIn">
+      <img src="./public/Linkedin.svg" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/soyJDan" target="_blank" class="link">
-      <img src="./../../public/Twitterx.svg" alt="X">
+      <img src="./public/Twitterx.svg" alt="X">
     </a>
     <a href="mailto:juandanielromerobedoya@gmail.com" target="_blank" class="link">
-      <img src="./../../public/Email.svg" alt="Email">
+      <img src="./public/Email.svg" alt="Email">
     </a>
   </div>
 </template>
