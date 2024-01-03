@@ -7,10 +7,10 @@
   font-weight: normal;
 }
 
-main {
-  margin: 2rem 0rem;
-  width: 100%;
-}
+/*main {*/
+/*  margin: 2rem 0rem;*/
+/*  width: 100%;*/
+/*}*/
 
 a,
 .green {
@@ -20,11 +20,11 @@ a,
   padding: 3px;
 }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
-}
+/*@media (hover: hover) {*/
+/*  a:hover {*/
+/*    background-color: hsla(160, 100%, 37%, 0.2);*/
+/*  }*/
+/*}*/
 
 @media (min-width: 1024px) {
   body {
