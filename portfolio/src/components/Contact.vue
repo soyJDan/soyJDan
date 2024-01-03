@@ -9,7 +9,7 @@
     <a href="https://twitter.com/soyJDan" target="_blank" class="link">
       <img src="./../../public/Twitterx.svg" alt="X">
     </a>
-    <a href="juandanielromerobedoya@gmail.com" target="_blank" class="link">
+    <a href="mailto:juandanielromerobedoya@gmail.com" target="_blank" class="link">
       <img src="./../../public/Email.svg" alt="Email">
     </a>
   </div>
