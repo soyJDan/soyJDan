@@ -29,10 +29,3 @@
   <img alt="Docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" width="40"/>  
   <img alt="Dart" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" width="40">  And a few more...
 </p>
-
-<br>
-
-<h2 align="center">Stats</h2>
-<p align="center">
-  <a href="https://github.com/soyJDan"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=soyJDan&theme=github_dark&show_icons=true&layout=compact&langs_count=8&card_width=320&show=reviews&hide=stars,issues" /></a>
-</p>
