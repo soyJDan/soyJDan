@@ -1,31 +1,31 @@
 ![Kermit The Frog programando en la galaxia](https://i.imgur.com/gOmSTjv.png)
 
-<h1 align="center">Hi 👋 My name is Daniel</h1>
-<h3 align="center">Software Developer</h3> 
+# Hi there 👋
+Hello again! I’m [@soyJDan](https://github.com/soyJDa). I’m passionate about programming and continuous learning. I love contributing to the community, developing new skills, and teaching a little of what I learn. I also like video games, one of my favorites is Resident Evil 4 (2005) 💖. I have a secret to tell you, I like LEGO and creativity, I always try to make my graphics look cooler. 😉
 
-<br>
+![GitHub](https://img.shields.io/badge/Github-%2312100E?style=for-the-badge&logo=Github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![X](https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white)
 
-<p align="center">I am a programmer and software developer who is passionate about continuous learning.</p>
+## These are some technologies that I currently use
 
-<br>
+![Java](https://github.com/soyJDan/soyJDan/assets/110744245/0c57f6f5-070e-41b5-b916-4edb40da5cf7)
+![SpringBoot](https://github.com/soyJDan/soyJDan/assets/110744245/b3a7d38d-054a-44d2-bb80-26062262b974)
+![PostgreSQL](https://github.com/soyJDan/soyJDan/assets/110744245/15f2c5f9-50c3-4fd5-9e6c-a077e682d9de)
+![TypeScript](https://github.com/soyJDan/soyJDan/assets/110744245/d8fe065c-8905-4a2d-ae7e-332d9baae562)
+![Git](https://github.com/soyJDan/soyJDan/assets/110744245/afe9c990-de9d-4736-a6be-8ed7ce9560d7)
+![Docker](https://github.com/soyJDan/soyJDan/assets/110744245/cfc37d2c-5a8e-4703-8f96-4d7d1e08ea7a)
+![Vue](https://github.com/soyJDan/soyJDan/assets/110744245/4436d0d2-dfbd-44f9-bc64-25c294521aac)
+And few more...
 
-<h2 align="center">Connect with me</h2>
-<p align="center">
-  <a href="https://github.com/soyJDan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E?style=for-the-badge&logo=Github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/soyJDan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://twitter.com/soyJDan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white"></a>              
-</p>
- 
-<br>
+## Projects I am actively working on
+| Name project | Description |
+---------------|-------------|
+| [MEDACProg_Tema10_Equipo2](https://github.com/ojados/MEDACProg_Tema10_Equipo2) | This project focuses on developing a management system for a library that includes various materials such as books and magazines. |
+| [git-github-learn](https://github.com/soyJDan/git-github-learn) | This repository contains the resources and materials needed to learn the fundamental concepts of Git and GitHub. |
+| [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
+| [github-profile-achievements/spanish](https://github.com/soyJDan/spanish) | Complete list of all GitHub profile Badges and Achievements in spanish. |
+| [discord-api-docs](https://github.com/soyJDan/discord-api-docs) | Official Discord API Documentation. |
 
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img alt="Java" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" width="40"/>  
-  <img alt="Spring" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/spring.svg" width="40"/>  
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg" width="40"/>  
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" width="40"/>  
-  <img alt="Git" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg" width="40"/>  
-  <img alt="React" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="40"/>  
-  <img alt="Docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" width="40"/>  
-  <img alt="Dart" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" width="40">  And a few more...
-</p>
+---
+Thank you for taking your time to review my profile. 🤩
