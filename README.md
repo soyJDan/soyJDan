@@ -26,6 +26,7 @@ And few more...
 | [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
 | [github-profile-achievements/spanish](https://github.com/soyJDan/spanish) | Complete list of all GitHub profile Badges and Achievements in spanish. |
 | [discord-api-docs](https://github.com/soyJDan/discord-api-docs) | Official Discord API Documentation. |
+| [WorldAtWar](https://github.com/soyJDan/WorldAtWar) |A turn-based battle application commanding legendary armies composed of formidable infantry soldiers, powerful cavalry, mythical generals and impressive creatures.|
 
 ---
 Thank you for taking your time to review my profile. 🤩
