@@ -9,13 +9,13 @@ Hello again! 😁 I’m [@soyJDan](https://github.com/soyJDan). I’m passionate
 
 ## These are some technologies that I currently use
 
-![Dark Java](https://img.icons8.com/?size=100&id=2572&format=png&color=000000#gh-dark-mode-only)![White Java](https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF#gh-light-mode-only)
-![Dark SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000#gh-dark-mode-only)![White SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=8BC34A#gh-light-mode-only)
-![Dark PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000#gh-dark-mode-only)![White PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=0277BD#gh-light-mode-only)
-![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=000000#gh-dark-mode-only)![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=0277BD#gh-light-mode-only)
-![Dark Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000#gh-dark-mode-only)![White Git](https://img.icons8.com/?size=100&id=38389&format=png&color=EF473B#gh-light-mode-only)
-![Dark Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000#gh-dark-mode-only)![White Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=0175BC#gh-light-mode-only)
-![Dark React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=000000#gh-dark-mode-only)![White React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=0175BC#gh-light-mode-only)
+![Dark Java](portfolio/public/java-light.svg#gh-dark-mode-only)![White Java](portfolio/public/java-dark.svg#gh-light-mode-only)
+![Dark SpringBoot](portfolio/public/spring-boot-light.svg#gh-dark-mode-only)![White SpringBoot](portfolio/public/spring-boot-dark.svg#gh-light-mode-only)
+![Dark PostgreSQL](portfolio/public/postgresql-light.svg#gh-dark-mode-only)![White PostgreSQL](portfolio/public/postgresql-dark.svg#gh-light-mode-only)
+![Dark TypeScript](portfolio/public/typescript-light.svg#gh-dark-mode-only)![Dark TypeScript](portfolio/public/typescript-dark.svg#gh-light-mode-only)
+![Dark Git](portfolio/public/git-light.svg#gh-dark-mode-only)![White Git](portfolio/public/git-dark.svg#gh-light-mode-only)
+![Dark Docker](portfolio/public/docker-light.svg#gh-dark-mode-only)![White Docker](portfolio/public/docker-dark.svg#gh-light-mode-only)
+![Dark React](portfolio/public/react-light.svg#gh-dark-mode-only)![White React](portfolio/public/react-dark.svg#gh-light-mode-only)
 And few more...
 
 ## Projects I am actively working on
