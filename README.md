@@ -9,13 +9,13 @@ Hello again! 😁 I’m [@soyJDan](https://github.com/soyJDan). I’m passionate
 
 ## These are some technologies that I currently use
 
-![Java](https://github.com/soyJDan/soyJDan/assets/110744245/0c57f6f5-070e-41b5-b916-4edb40da5cf7)
-![SpringBoot](https://github.com/soyJDan/soyJDan/assets/110744245/b3a7d38d-054a-44d2-bb80-26062262b974)
-![PostgreSQL](https://github.com/soyJDan/soyJDan/assets/110744245/15f2c5f9-50c3-4fd5-9e6c-a077e682d9de)
-![TypeScript](https://github.com/soyJDan/soyJDan/assets/110744245/d8fe065c-8905-4a2d-ae7e-332d9baae562)
-![Git](https://github.com/soyJDan/soyJDan/assets/110744245/afe9c990-de9d-4736-a6be-8ed7ce9560d7)
-![Docker](https://github.com/soyJDan/soyJDan/assets/110744245/cfc37d2c-5a8e-4703-8f96-4d7d1e08ea7a)
-![Vue](https://github.com/soyJDan/soyJDan/assets/110744245/4436d0d2-dfbd-44f9-bc64-25c294521aac)
+![Dark Java](https://img.icons8.com/?size=100&id=2572&format=png&color=000000)![White Java](https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF)
+![Dark SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)![White SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=8BC34A)
+![Dark PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)![White PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=0277BD)
+![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=000000)![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=0277BD)
+![Dark Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000)![White Git](https://img.icons8.com/?size=100&id=38389&format=png&color=EF473B)
+![Dark Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)![White Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=0175BC)
+![Dark React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=000000)![White React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=0175BC)
 And few more...
 
 ## Projects I am actively working on
@@ -26,7 +26,7 @@ And few more...
 | [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
 | [github-profile-achievements/spanish](https://github.com/soyJDan/spanish) | Complete list of all GitHub profile Badges and Achievements in spanish. |
 | [discord-api-docs](https://github.com/soyJDan/discord-api-docs) | Official Discord API Documentation. |
-| [WorldAtWar](https://github.com/soyJDan/WorldAtWar) |A turn-based battle application commanding legendary armies composed of formidable infantry soldiers, powerful cavalry, mythical generals and impressive creatures.|
+| [WorldAtWar](https://github.com/soyJDan/MEDACMuProgWaW) |A turn-based battle application commanding legendary armies composed of formidable infantry soldiers, powerful cavalry, mythical generals and impressive creatures.|
 
 ---
 Thank you for taking your time to review my profile. 🤩
