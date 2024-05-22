@@ -9,18 +9,18 @@ Hello again! 😁 I’m [@soyJDan](https://github.com/soyJDan). I’m passionate
 
 ## These are some technologies that I currently use
 
-![Dark Java](https://img.icons8.com/?size=100&id=2572&format=png&color=000000)![White Java](https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF)
-![Dark SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)![White SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=8BC34A)
-![Dark PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)![White PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=0277BD)
-![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=000000)![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=0277BD)
-![Dark Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000)![White Git](https://img.icons8.com/?size=100&id=38389&format=png&color=EF473B)
-![Dark Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)![White Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=0175BC)
-![Dark React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=000000)![White React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=0175BC)
+![Dark Java](https://img.icons8.com/?size=100&id=2572&format=png&color=000000#gh-dark-mode-only)![White Java](https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF#gh-light-mode-only)
+![Dark SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000#gh-dark-mode-only)![White SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=8BC34A#gh-light-mode-only)
+![Dark PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000#gh-dark-mode-only)![White PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=0277BD#gh-light-mode-only)
+![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=000000#gh-dark-mode-only)![Dark TypeScript](https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=0277BD#gh-light-mode-only)
+![Dark Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000#gh-dark-mode-only)![White Git](https://img.icons8.com/?size=100&id=38389&format=png&color=EF473B#gh-light-mode-only)
+![Dark Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000#gh-dark-mode-only)![White Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=0175BC#gh-light-mode-only)
+![Dark React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=000000#gh-dark-mode-only)![White React](https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=0175BC#gh-light-mode-only)
 And few more...
 
 ## Projects I am actively working on
 | Name project | Description |
----------------|-------------|
+|--------------|-------------|
 | [MEDACProg_Tema10_Equipo2](https://github.com/ojados/MEDACProg_Tema10_Equipo2) | This project focuses on developing a management system for a library that includes various materials such as books and magazines. |
 | [git-github-learn](https://github.com/soyJDan/git-github-learn) | This repository contains the resources and materials needed to learn the fundamental concepts of Git and GitHub. |
 | [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
