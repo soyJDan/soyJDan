@@ -9,13 +9,13 @@ Hello again! 😁 I’m [@soyJDan](https://github.com/soyJDan). I’m passionate
 
 ## These are some technologies that I currently use
 
-![Dark Java](portfolio/public/java-light.svg#gh-dark-mode-only)![White Java](portfolio/public/java-dark.svg#gh-light-mode-only)
-![Dark SpringBoot](portfolio/public/spring-boot-light.svg#gh-dark-mode-only)![White SpringBoot](portfolio/public/spring-boot-dark.svg#gh-light-mode-only)
-![Dark PostgreSQL](portfolio/public/postgresql-light.svg#gh-dark-mode-only)![White PostgreSQL](portfolio/public/postgresql-dark.svg#gh-light-mode-only)
-![Dark TypeScript](portfolio/public/typescript-light.svg#gh-dark-mode-only)![Dark TypeScript](portfolio/public/typescript-dark.svg#gh-light-mode-only)
-![Dark Git](portfolio/public/git-light.svg#gh-dark-mode-only)![White Git](portfolio/public/git-dark.svg#gh-light-mode-only)
-![Dark Docker](portfolio/public/docker-light.svg#gh-dark-mode-only)![White Docker](portfolio/public/docker-dark.svg#gh-light-mode-only)
-![Dark React](portfolio/public/react-light.svg#gh-dark-mode-only)![White React](portfolio/public/react-dark.svg#gh-light-mode-only)
+![Dark Java](images/java-light.svg#gh-dark-mode-only)![White Java](images/java-dark.svg#gh-light-mode-only)
+![Dark SpringBoot](images/spring-boot-light.svg#gh-dark-mode-only)![White SpringBoot](images/spring-boot-dark.svg#gh-light-mode-only)
+![Dark PostgreSQL](images/postgres-light.svg#gh-dark-mode-only)![White PostgreSQL](images/postgres-dark.svg#gh-light-mode-only)
+![Dark TypeScript](images/typescript-light.svg#gh-dark-mode-only)![Dark TypeScript](images/typescript-dark.svg#gh-light-mode-only)
+![Dark Git](images/git-light.svg#gh-dark-mode-only)![White Git](images/git-dark.svg#gh-light-mode-only)
+![Dark Docker](images/docker-light.svg#gh-dark-mode-only)![White Docker](images/docker-dark.svg#gh-light-mode-only)
+![Dark React](images/react-light.svg#gh-dark-mode-only)![White React](images/react-dark.svg#gh-light-mode-only)
 And few more...
 
 ## Projects I am actively working on
