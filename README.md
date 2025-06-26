@@ -18,15 +18,5 @@ Hello again! 😁 I’m [@soyJDan](https://github.com/soyJDan). I’m passionate
 ![Dark React](images/react-light.svg#gh-dark-mode-only)![White React](images/react-dark.svg#gh-light-mode-only)
 And few more...
 
-## Projects I am actively working on
-| Name project | Description |
-|--------------|-------------|
-| [MEDACProg_Tema10_Equipo2](https://github.com/ojados/MEDACProg_Tema10_Equipo2) | This project focuses on developing a management system for a library that includes various materials such as books and magazines. |
-| [git-github-learn](https://github.com/soyJDan/git-github-learn) | This repository contains the resources and materials needed to learn the fundamental concepts of Git and GitHub. |
-| [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
-| [github-profile-achievements/spanish](https://github.com/soyJDan/spanish) | Complete list of all GitHub profile Badges and Achievements in spanish. |
-| [discord-api-docs](https://github.com/soyJDan/discord-api-docs) | Official Discord API Documentation. |
-| [WorldAtWar](https://github.com/soyJDan/MEDACMuProgWaW) |A turn-based battle application commanding legendary armies composed of formidable infantry soldiers, powerful cavalry, mythical generals and impressive creatures.|
-
 ---
 Thank you for taking your time to review my profile. 🤩
